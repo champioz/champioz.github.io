@@ -1,0 +1,18 @@
+
+
+/* Fonts */
+
+@font-face {
+    font-family: 'Overpass';
+    src: url(../fonts/Overpass-VariableFont_wght.tff);
+}
+
+@font-face {
+    font-family: 'InterTight';
+    src: url(../fonts/InterTight-VariableFont_wght.tff);
+}
+
+@font-face {
+    font-family: 'Genos';
+    src: url(../fonts/Genos-VariableFont_wght.tff);
+}
